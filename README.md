@@ -27,7 +27,7 @@ This repository contains code implementations and explanations of various DSA co
 
 ### Sorting Algorithms
 
-- [x] Bubble Sort
+- [ ] Bubble Sort
 - [ ] Selection Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
@@ -71,21 +71,21 @@ This repository contains code implementations and explanations of various DSA co
 
 ### Stacks and Queues
 
-- [x] Stack Implementation
+- [ ] Stack Implementation
 - [ ] Queue Implementation
 - [ ] Priority Queue
 - [ ] ...
 
 ### Trees
 
-- [x] Binary Tree
+- [ ] Binary Tree
 - [ ] Binary Search Tree (BST)
 - [ ] AVL Tree
 - [ ] ...
 
 ### Hash Tables
 
-- [x] Hash Table Basics
+- [ ] Hash Table Basics
 - [ ] Hash Collision Resolution
 - [ ] ...
 
