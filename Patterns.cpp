@@ -288,18 +288,150 @@ int main()
      D E F G
      E F G H I
      */
-    int i = 1;
-    while (i <= n)
+    // int i = 1;
+    // while (i <= n)
+    // {
+    //     int j = 1;
+    //     char ch = 'A' + n -i;
+    //     while (j <= i)
+    //     {
+    //         cout << ch << " ";
+    //         ch++;
+    //         j++;
+    //     }
+    //     cout << endl;
+    //     i++;
+    // }
+
+    /*
+    *
+   **
+  ***
+ ****
+*****
+     */
+    // int i = 1;
+    // while (i <= n)
+    // {
+    //     int j = 1;
+    //     while (j <= n - i)
+    //     {
+    //         cout << " ";
+    //         j++;
+    //     }   
+
+    //     while (j <= n)
+    //     {
+    //         cout << "*";
+    //         j++;
+    //     }
+
+    //     cout << endl;
+    //     i++;
+    // }
+
+
+    /*
+    * * * * 
+    * * *
+    * *
+    *
+    */
+//    int i =1;
+//    while (i<=n)
+//    {
+//     int j=1;
+//     while (j<=n-i+1)
+//     {
+//         cout << "*" << " ";
+//         j++;
+//     }
+//     cout << endl;
+//     i++;
+//    }
+
+/*
+* * * * 
+* * *
+* *
+*
+*/
+    // int i =1;
+    // while (i<=n)
+    // {
+    //     int j=1;
+    //     while (j<=n-i+1)
+    //     {
+    //         cout << "*" << " ";
+    //         j++;
+    //     }
+    //     cout << endl;
+    //     i++; 
+    // }
+   
+
+/*
+12345
+ 2345
+  345
+   45
+    5
+*/
+    // int i =1;
+    // while (i<=n)
+    // {
+    //     int j=1;
+    //     int num = 1;
+    //     while (j < i)
+    //     {
+    //        cout << " ";
+    //        num++;
+    //        j++;
+    //     }
+    //     while (j >= i && j <= n)
+    //     {
+    //         cout << num;
+    //         num++;
+    //         j++;
+    //     }
+    //     cout << endl;
+    //     i++; 
+    // }
+
+
+/*
+    1
+   121
+  12321
+ 1234321
+123454321
+*/
+    int i =1;
+    while (i<=n)
     {
-        int j = 1;
-        char ch = 'A' + n -i;
-        while (j <= i)
+        int j=1;
+        int num = 1;
+        while (j < n-i+1)
         {
-            cout << ch << " ";
-            ch++;
+           cout << " ";
+           j++;
+        }
+        while (j<=n)
+        {
+            cout << num;
+            num++;
             j++;
         }
+        num=num-2;
+        j = 1;
+        while (j<i)
+        {
+            cout << num;
+            num= num-1;
+            j++;
+        }
+        
         cout << endl;
-        i++;
+        i++; 
     }
 }
