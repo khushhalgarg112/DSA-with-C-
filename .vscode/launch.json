@@ -2,14 +2,56 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "conditional.ReverseNumber",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "digitcount",
+      "request": "launch",
+      "mainClass": "conditional.digitcount",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "fiboonaci",
+      "request": "launch",
+      "mainClass": "conditional.fiboonaci",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "charCheck",
+      "request": "launch",
+      "mainClass": "conditional.charCheck",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "conditional",
+      "request": "launch",
+      "mainClass": "conditional",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "First",
+      "projectName": "DSA_9310fbda"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/IT/Desktop/C++ DSA",
-      "program": "c:/Users/IT/Desktop/C++ DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/IT/Desktop/DSA",
+      "program": "c:/Users/IT/Desktop/DSA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
