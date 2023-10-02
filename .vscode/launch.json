@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Prime",
+      "request": "launch",
+      "mainClass": "functions.Prime",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Overiding",
+      "request": "launch",
+      "mainClass": "functions.Overiding",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "VariableArguments",
+      "request": "launch",
+      "mainClass": "functions.VariableArguments",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Shadowing",
+      "request": "launch",
+      "mainClass": "functions.Shadowing",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Scope",
+      "request": "launch",
+      "mainClass": "functions.Scope",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "switchCase",
       "request": "launch",
       "mainClass": "conditional.switchCase",
