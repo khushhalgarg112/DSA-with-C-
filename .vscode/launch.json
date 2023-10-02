@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "switchCase",
+      "request": "launch",
+      "mainClass": "conditional.switchCase",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "ReverseNumber",
       "request": "launch",
       "mainClass": "conditional.ReverseNumber",
