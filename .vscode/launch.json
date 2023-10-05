@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Arrays.Reverse",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "ArraysList",
+      "request": "launch",
+      "mainClass": "Arrays.ArraysList",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "array2D",
+      "request": "launch",
+      "mainClass": "Arrays.array2D",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "arrays",
+      "request": "launch",
+      "mainClass": "Arrays.arrays",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "Prime",
       "request": "launch",
       "mainClass": "functions.Prime",
