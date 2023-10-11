@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "stringSearch",
+      "request": "launch",
+      "mainClass": "stringSearch",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "linearSearch",
+      "request": "launch",
+      "mainClass": "linearSearch",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "Reverse",
       "request": "launch",
       "mainClass": "Arrays.Reverse",
