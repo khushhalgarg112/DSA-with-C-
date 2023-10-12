@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "orderAgnosticBinary",
+      "request": "launch",
+      "mainClass": "orderAgnosticBinary",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "binarySearch",
+      "request": "launch",
+      "mainClass": "binarySearch",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "stringSearch",
       "request": "launch",
       "mainClass": "stringSearch",
