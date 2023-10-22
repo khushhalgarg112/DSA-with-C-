@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "psotionInInfinte",
+      "request": "launch",
+      "mainClass": "psotionInInfinte",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "FirstAndLastOccurance",
+      "request": "launch",
+      "mainClass": "FirstAndLastOccurance",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "ceilingNumber",
+      "request": "launch",
+      "mainClass": "ceilingNumber",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "orderAgnosticBinary",
       "request": "launch",
       "mainClass": "orderAgnosticBinary",
