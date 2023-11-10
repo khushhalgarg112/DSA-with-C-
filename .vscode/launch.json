@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "perfectbinarysearch2D",
+      "request": "launch",
+      "mainClass": "perfectbinarysearch2D",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "binarsearch2D",
+      "request": "launch",
+      "mainClass": "binarsearch2D",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "psotionInInfinte",
       "request": "launch",
       "mainClass": "psotionInInfinte",
