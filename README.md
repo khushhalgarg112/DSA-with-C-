@@ -35,8 +35,8 @@ This repository contains code implementations and explanations of various DSA co
 
 ### Searching Algorithms
 
-- [ ] Linear Search
-- [ ] Binary Search
+- [x] Linear Search
+- [x] Binary Search
 - [ ] Depth-First Search (DFS)
 - [ ] Breadth-First Search (BFS)
 
