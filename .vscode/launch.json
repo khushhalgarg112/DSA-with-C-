@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "bubblesort",
+      "request": "launch",
+      "mainClass": "Sorting.bubblesort",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "perfectbinarysearch2D",
       "request": "launch",
       "mainClass": "perfectbinarysearch2D",
