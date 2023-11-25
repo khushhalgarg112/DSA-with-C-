@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Pallindrome",
+      "request": "launch",
+      "mainClass": "String.Pallindrome",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "String.test",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "cyclicsort",
+      "request": "launch",
+      "mainClass": "cyclicsort",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "insertionsort",
+      "request": "launch",
+      "mainClass": "insertionsort",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "selectionsort",
+      "request": "launch",
+      "mainClass": "selectionsort",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "bubblesort",
       "request": "launch",
       "mainClass": "Sorting.bubblesort",
