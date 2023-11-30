@@ -3,6 +3,26 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SubStringProg",
+      "request": "launch",
+      "mainClass": "String.SubStringProg",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "fiboonaci",
+      "request": "launch",
+      "mainClass": "Recursion.fiboonaci",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "Pallindrome",
       "request": "launch",
       "mainClass": "String.Pallindrome",
@@ -199,7 +219,7 @@
     },
     {
       "type": "java",
-      "name": "fiboonaci",
+      "name": "Debug (Launch)",
       "request": "launch",
       "mainClass": "conditional.fiboonaci",
       "projectName": "DSA_9310fbda"
