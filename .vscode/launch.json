@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PowerOf2",
+      "request": "launch",
+      "mainClass": "PowerOf2",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
+      "name": "magicnumber",
+      "request": "launch",
+      "mainClass": "magicnumber",
+      "projectName": "DSA_9310fbda"
+    },
+    {
+      "type": "java",
       "name": "SubStringProg",
       "request": "launch",
       "mainClass": "String.SubStringProg",
